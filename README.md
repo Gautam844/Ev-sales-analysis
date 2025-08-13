@@ -21,7 +21,7 @@ The goal is to understand vehicle adoption patterns, sales growth, and market in
 3. (Optional) Refresh the data if source file is available.
 
 ## 📸 Dashboard Preview
-(Add a screenshot here after uploading the image file)
+([Dashboard Screenshot](Screenshot_1.png)
 
 ## 📈 Data Source
 (Mention your data source here — e.g., Government transport department data, Kaggle, etc.)
